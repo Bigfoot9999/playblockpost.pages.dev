@@ -6,8 +6,7 @@ Blockpost is a tactical offshoot within the Blockpost game universe. Keeping the
 # Links
 
 - [playblockpost.pages.dev](https://playblockpost.pages.dev)
-- [blockpost.bigfootshack.net](https://blockpost.bigfootshack.net)
-- [blockpost.xbigfoot.design](https://blockpost.xbigfoot.design.)
+- 
 
 
 ## FAQ
