@@ -6,7 +6,7 @@ Blockpost is a tactical offshoot within the Blockpost game universe. Keeping the
 # Links
 
 - [playblockpost.pages.dev](https://playblockpost.pages.dev)
-- 
+
 
 
 ## FAQ
